@@ -13,7 +13,7 @@ It allows the content to appear in a certain way using enclosing tags and elemen
 ## Most used tags
 |TAG|NAME|DESCRIPTION|
 |---|---|---|
-|```<html>...</htl>```|Html|The entire HTML document|
+|```<html>...</html>```|Html|The entire HTML document|
 |```<head>...</head>```|Head|The head, or prologue, of the HTML document|
 |```<body>...</body>```|Body|All the other content in the HTML document|
 |```<title>```|Title|It is used to define the title of an HTML document|
